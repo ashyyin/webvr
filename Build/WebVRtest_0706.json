@@ -1,0 +1,16 @@
+{
+"companyName": "com.ios360vr.yin",
+"productName": "ios_vr_0704",
+"productVersion": "0.1",
+"dataUrl": "WebVRtest_0706.data.unityweb",
+"wasmCodeUrl": "WebVRtest_0706.wasm",
+"wasmFrameworkUrl": "WebVRtest_0706.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.15f1"
+}
